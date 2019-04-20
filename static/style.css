@@ -1,0 +1,32 @@
+
+.container {
+  max-width: 960px; /*设置最大宽度为固定值*/
+  margin: 0 auto;  /*设置内部子块元素左右居中*/
+}
+.header {
+  height: 50px;  /*只需设置高度,宽度继承父元素*/
+  background-color: #21FF80;
+}
+.main {
+  height: 600px;  /*只需设置高度,宽度继承父元素*/
+  background-color: #80007F;
+}
+.footer {
+  height: 50px;  /*只需设置高度,宽度继承父元素*/
+  background-color: #21FF06;
+}
+
+.box{
+  height: 160px;
+  background-color: #66ccff;
+}
+
+.mbox{
+  height: 60px;
+  background-color: #22222;
+}
+
+.name{
+  height: 30px;
+  background-color: #66666;
+}

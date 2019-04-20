@@ -6,6 +6,5 @@
     <title></title>
   </head>
   <body>
-
-  </body>
-</html>
+    <div class="container">
+  		<div class="header">头部</div>
