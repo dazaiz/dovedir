@@ -1,0 +1,15 @@
+body .myskin .layui-layer-content{
+  background:#fff;
+  box-shadow: 1px 1px #3e7eb1;
+
+}
+
+body .myskin .layui-layer-content a
+{
+  color: #000;
+}
+
+body .myskin .layui-layer-content div
+{
+  padding: 5px 0px 0px 5px;
+}

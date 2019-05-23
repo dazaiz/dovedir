@@ -1,6 +1,6 @@
 <?php
 
-$dirpath=__DIR__.'/file/';//读取文件目录路径
+$dirpath='file';//读取文件目录路径
 
 
 
